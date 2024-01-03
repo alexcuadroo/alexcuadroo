@@ -23,20 +23,17 @@ Sitio web personal, con recursos y herramientas que uso.
 
 ![Imagen o Logo del Proyecto](https://raw.githubusercontent.com/alexcuadroo/sources/main/01.webp)
 
-### [Nombre del Proyecto 2]
-Otra breve descripción del proyecto, destacando su importancia.
 
-![Imagen o Logo del Proyecto](URL_de_la_Imagen)
 
 ## Contribuciones y Colaboración
 
-¡Tu participación es bienvenida! Si tienes ideas, sugerencias o quieres colaborar en alguno de mis proyectos, no dudes en abrir un problema (issue) o enviar una solicitud de extracción (pull request).
+¡Tu participación es bienvenida! Por ahora no hay proyectos públicos, próximamente puedes mandar sugerencias o si quieres colaborar en alguno de mis proyectos, no dudes en abrir un problema (issue) o enviar una solicitud de extracción (pull request).
 
 ## Contacto
 
 Puedes encontrarme en las siguientes plataformas:
 
-- [LinkedIn](URL_de_Tu_LinkedIn)
-- [Correo Electrónico](tu@email.com)
+- [LinkedIn](https://www.linkedin.com/in/alexcuadro/)
+- [Correo Electrónico](mailto:hola@alexcuadro.tech)
 
-¡Gracias por visitar mi repositorio! Espero que encuentres algo interesante y educativo. 👨‍🏫🚀
+¡Gracias por visitar mi repositorio! Espero que encuentres algo interesante.👨‍🏫🚀
