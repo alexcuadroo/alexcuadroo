@@ -21,7 +21,7 @@ Aquí encontrarás una variedad de contenido:
 ### [01 - Landing Page](https://alexcuadro.tech)
 Sitio web personal, con recursos y herramientas que uso.
 
-![Imagen o Logo del Proyecto](https://raw.githubusercontent.com/alexcuadroo/sources/main/01.png)
+![Imagen o Logo del Proyecto](https://raw.githubusercontent.com/alexcuadroo/sources/main/01.png](https://raw.githubusercontent.com/alexcuadroo/sources/main/01.webp)
 
 ### [Nombre del Proyecto 2]
 Otra breve descripción del proyecto, destacando su importancia.
