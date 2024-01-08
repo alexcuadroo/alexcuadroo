@@ -1,4 +1,4 @@
-# Bienvenidos al Repositorio de un Profesor de Historia apasionado por la Informática 👨‍🏫🧑‍💻
+# Bienvenidos al repositorio de un Profesor de Historia apasionado por la Informática 👨‍🏫🧑‍💻
 
 ¡Hola! Soy Alex Cuadro, un docente de Historia originario de Uruguay con 22 años de edad, actualmente estoy inmerso en el fascinante mundo de la informática. Este repositorio es mi espacio personal donde comparto recursos, proyectos y todo lo relacionado con mi viaje educativo y tecnológico.
 
