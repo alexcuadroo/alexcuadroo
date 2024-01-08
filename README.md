@@ -6,7 +6,7 @@
 
 - 🌎 Soy uruguayo, apasionado por la historia y la cultura.
 - 📚 Docente de Historia, compartiendo conocimientos con entusiasmo.
-- 💻 Estudiante de Profesorado de Informática, explorando el vasto universo tecnológico.
+- 💻 Estudiante del Profesorado de Cs. de la Computación, explorando el vasto universo tecnológico.
 
 ## Objetivos del Repositorio
 
