@@ -18,14 +18,14 @@ Aquí encontrarás una variedad de contenido:
 
 ## Proyectos Destacados
 
-### [01 - Landing Page](https://alexcuadro.tech)
+### [01 - Landing Page (deprecated)](https://alexcuadro.tech)
 Sitio web personal, con recursos y herramientas que uso.
 
 ![Imagen o Logo del Proyecto](https://raw.githubusercontent.com/alexcuadroo/sources/main/01.webp)
 
 
-### [02 - Login Page](https://testing.alexcuadro.tech)
-Sitio web de login dando acceso a 
+### [02 - Login Page](https://app.alexcuadro.tech)
+Sitio web de login dando acceso a recursos varios.
 
 ![Imagen o Logo del Proyecto](https://raw.githubusercontent.com/alexcuadroo/sources/main/02%20-%20Landing%20Login.webp)
 
