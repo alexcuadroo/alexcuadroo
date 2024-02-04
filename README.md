@@ -34,6 +34,16 @@ Acortador de enlaces potenciado por Yourls, front personalizado.
 
 ![Imagen o Logo del Proyecto](https://raw.githubusercontent.com/alexcuadroo/sources/main/03.webp)
 
+### [04 - Grabador de Pantalla Humilde](https://alexcuadro.tech/rec)
+Grabador de pantalla, pestaña o ventanas de manera sencilla.
+
+![Imagen o Logo del Proyecto](https://raw.githubusercontent.com/alexcuadroo/sources/main/04.webp)
+
+### [05 - Repositorio de Ciencias de la Computación](https://app.alexcuadro.tech/inet)
+Repositorio con archivos de Ciencias de la Computación del INET.
+
+![Imagen o Logo del Proyecto](https://raw.githubusercontent.com/alexcuadroo/sources/main/05.webp)
+
 ## Contribuciones y Colaboración
 
 ¡Tu participación es bienvenida! Por ahora no hay proyectos públicos, próximamente puedes mandar sugerencias o si quieres colaborar en alguno de mis proyectos, no dudes en abrir un problema (issue) o enviar una solicitud de extracción (pull request).
