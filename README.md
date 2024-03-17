@@ -29,7 +29,7 @@ Sitio web de login dando acceso a recursos varios.
 
 ![Imagen o Logo del Proyecto](https://raw.githubusercontent.com/alexcuadroo/sources/main/02%20-%20Landing%20Login.webp)
 
-### [03 - Acortador de Enlaces](https://link.alexcuadro.tech)
+### [03 - Acortador de Enlaces](https://short.alexcuadro.tech)
 Acortador de enlaces potenciado por Yourls, front personalizado.
 
 ![Imagen o Logo del Proyecto](https://raw.githubusercontent.com/alexcuadroo/sources/main/03.webp)
