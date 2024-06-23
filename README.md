@@ -1,58 +1,42 @@
-# Bienvenidos al repositorio de un Profesor de Historia apasionado por la Informática 👨‍🏫🧑‍💻
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-¡Hola! Soy Alex Cuadro, un docente de Historia originario de Uruguay con 23 años de edad, actualmente estoy inmerso en el fascinante mundo de la informática. Este repositorio es mi espacio personal donde comparto recursos, proyectos y todo lo relacionado con mi viaje educativo y tecnológico.
+###
 
-## Sobre Mí
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/104812291?v=4"  />
 
-- 🌎 Soy uruguayo, apasionado por la historia y la cultura.
-- 📚 Docente de Historia, compartiendo conocimientos con entusiasmo.
-- 💻 Estudiante del Profesorado de Cs. de la Computación, explorando el vasto universo tecnológico.
+###
 
-## Objetivos del Repositorio
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+</div>
 
-Aquí encontrarás una variedad de contenido:
+###
 
-- 📂 **Proyectos Educativos:** Recursos y materiales para mis clases de historia.
-- 💻 **Proyectos de Informática:** Desarrollos y experimentos en el mundo de la programación.
-- 🌐 **Mucho más:** Próximamente
+<div align="left">
+  <a href="https://www.youtube.com/@alexcuadro" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/alexcuadroo/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.twitch.tv/unbelugatravieso" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <a href="https://discord.com/users/alexcuadro" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="mailto:hola@alexcuadro.tech" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://x.com/alexcuadroo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
 
-## Proyectos Destacados
-
-### [01 - Landing Page (deprecated)](https://alexcuadro.tech)
-Sitio web personal, con recursos y herramientas que uso.
-
-![Imagen o Logo del Proyecto](https://raw.githubusercontent.com/alexcuadroo/sources/main/01.webp)
-
-
-### [02 - Login Page](https://app.alexcuadro.tech)
-Sitio web de login dando acceso a recursos varios.
-
-![Imagen o Logo del Proyecto](https://raw.githubusercontent.com/alexcuadroo/sources/main/02%20-%20Landing%20Login.webp)
-
-### [03 - Acortador de Enlaces](https://short.alexcuadro.tech)
-Acortador de enlaces potenciado por Yourls, front personalizado.
-
-![Imagen o Logo del Proyecto](https://raw.githubusercontent.com/alexcuadroo/sources/main/03.webp)
-
-### [04 - Grabador de Pantalla Humilde](https://alexcuadro.tech/rec)
-Grabador de pantalla, pestaña o ventanas de manera sencilla.
-
-![Imagen o Logo del Proyecto](https://raw.githubusercontent.com/alexcuadroo/sources/main/04.webp)
-
-### [05 - Repositorio de Ciencias de la Computación](https://app.alexcuadro.tech/inet)
-Repositorio con archivos de Ciencias de la Computación del INET.
-
-![Imagen o Logo del Proyecto](https://raw.githubusercontent.com/alexcuadroo/sources/main/05.webp)
-
-## Contribuciones y Colaboración
-
-¡Tu participación es bienvenida! Por ahora no hay proyectos públicos, próximamente puedes mandar sugerencias o si quieres colaborar en alguno de mis proyectos, no dudes en abrir un problema (issue) o enviar una solicitud de extracción (pull request).
-
-## Contacto
-
-Puedes encontrarme en las siguientes plataformas:
-
-- [LinkedIn](https://www.linkedin.com/in/alexcuadro/)
-- [Correo Electrónico](mailto:hola@alexcuadro.tech)
-
-¡Gracias por visitar mi repositorio! Espero que encuentres algo interesante.👨‍🏫🚀
+###
