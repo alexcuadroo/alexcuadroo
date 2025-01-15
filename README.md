@@ -1,4 +1,4 @@
-<h2 align="left">¡Hola👋! Mi nombre es Alex, docente de Historia uruguayo. Bienvenido a mi repo.</h2>
+<h2 align="left">¡Hola👋! Mi nombre es Alex, docente de Historia uruguayo.</h2>
 
 ###
 
